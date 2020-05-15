@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 Hello.
 I'm from Japan.
-=======
-sample Hello
-I'm fine.
->>>>>>> cb717fb... My second commit for hands on.
+This is sample3, in the master branch.
